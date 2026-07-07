@@ -1,0 +1,6 @@
+@followup.Api_HostAddress = http://localhost:5033
+
+GET {{followup.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
