@@ -1,6 +1,6 @@
 name: Issue
 description: Standard issue template
-title: ""
+title: "[Task]: "
 labels: []
 body:
   - type: textarea
