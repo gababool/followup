@@ -19,6 +19,14 @@ body:
     validations:
       required: true
 
+  - type: textarea
+    id: req
+    attributes:
+      label: Requirement
+      description: What requirement the issue is for.
+    validations:
+      required: false
+
   - type: checkboxes
     id: checks
     attributes:
